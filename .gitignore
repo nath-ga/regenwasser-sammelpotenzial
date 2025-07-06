@@ -1,0 +1,28 @@
+# Byte- und Systemdateien
+__pycache__/
+*.py[cod]
+*.DS_Store
+
+# Backup-Dateien
+*.bak
+*.swp
+*~
+
+# Daten-Outputs (nicht versionieren)
+outputs/
+data/interim/
+data/raw/
+data/external/
+*.geojson
+*.txt
+*.csv
+*.html
+*.png
+
+# Virtuelle Umgebungen
+.venv/
+env/
+venv/
+
+# Jupyter Checkpoints (falls doch verwendet)
+.ipynb_checkpoints/
