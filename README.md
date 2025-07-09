@@ -107,10 +107,12 @@ regenwasser-sammelpotenzial/
 ## Lizenz
 Datenquellen: OpenStreetMap (ODbL), Open-Meteo (CC BY 4.0). Analysecode: Open Source.
 
-## Projektvideo
+## Projektpräsentation
 
-Zur kompakten Vorstellung des Projekts:
+Die folgenden Slides zeigen die wichtigsten Aspekte des Projekts:
 
-[![Zum Video](assets/images/vorschau_video.jpg)](https://youtu.be/JWOLD8hE05Q)
-
-> Dieses Video gibt einen Überblick über Motivation, Methodik und Ergebnisse.
+![Motivation & Hintergrund](assets/images/slide_1.png)
+![Methodik & Daten](assets/images/slide_2.png)
+![Ergebnisse & Visualisierung](assets/images/slide_3.png)
+![Grenzen & Ausblick](assets/images/slide_4.png)
+![Fazit & Nutzen](assets/images/slide_5.png)
