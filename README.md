@@ -69,23 +69,22 @@ Erweiterte Visualisierung und Analyse:
 
 ##  Projektstruktur
 
-'''
 regenwasser-sammelpotenzial/
-├── 01_download_osm.py
-├── 02_calc_water_volume.py
-├── 03_get_precipitation.py
-├── 04_calc_water_volume.py
-├── 05_visualize_results_stats.py
-├── config.py
-├── data/
-│ └── interim/
-│ ├── <ort>_buildings.geojson
-│ └── precip_mm_YYYY.txt
-├── outputs/
-│ └── figures/
-│ ├── regenkarte_enhanced.html
-│ └── regenwasser_statistiken.png
-'''
+── 01_download_osm.py
+── 02_calc_water_volume.py
+── 03_get_precipitation.py
+── 04_calc_water_volume.py
+── 05_visualize_results_stats.py
+── config.py
+── data/
+ └── interim/
+ ├── <ort>_buildings.geojson
+ └── precip_mm_YYYY.txt
+── outputs/
+ └── figures/
+ ├── regenkarte_enhanced.html
+ └── regenwasser_statistiken.png
+
 
 ##  Nächste Schritte (optional)
 
@@ -112,6 +111,6 @@ Datenquellen: OpenStreetMap (ODbL), Open-Meteo (CC BY 4.0). Analysecode: Open So
 
 Zur kompakten Vorstellung des Projekts:
 
-[![Zum Video](assets/images/vorschau_video.jpg)](assets/video/regenwasser_praesentation_2025.mp4)
+[![Zum Video](assets/images/vorschau_video.jpg)](https://youtu.be/JWOLD8hE05Q)
 
 > Dieses Video gibt einen Überblick über Motivation, Methodik und Ergebnisse.
