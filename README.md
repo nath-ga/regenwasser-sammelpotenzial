@@ -68,7 +68,7 @@ Erweiterte Visualisierung und Analyse:
 ---
 
 ##  Projektstruktur
-
+```
 regenwasser-sammelpotenzial/
 ── 01_download_osm.py
 ── 02_calc_water_volume.py
@@ -84,7 +84,7 @@ regenwasser-sammelpotenzial/
  └── figures/
  ├── regenkarte_enhanced.html
  └── regenwasser_statistiken.png
-
+```
 
 ##  Nächste Schritte (optional)
 
@@ -104,9 +104,6 @@ regenwasser-sammelpotenzial/
 
 ---
 
-## Lizenz
-Datenquellen: OpenStreetMap (ODbL), Open-Meteo (CC BY 4.0). Analysecode: Open Source.
-
 ## Projektpräsentation
 
 Die folgenden Slides zeigen die wichtigsten Aspekte des Projekts:
@@ -116,3 +113,20 @@ Die folgenden Slides zeigen die wichtigsten Aspekte des Projekts:
 ![Ergebnisse & Visualisierung](assets/images/slide_3.png)
 ![Grenzen & Ausblick](assets/images/slide_4.png)
 ![Fazit & Nutzen](assets/images/slide_5.png)
+
+
+## Lizenz
+
+Datenquellen: OpenStreetMap (ODbL), Open-Meteo (CC BY 4.0). Analysecode: Open Source.
+
+This project is provided under the following terms:
+
+- All **non-code content** (texts, project idea, images, visualizations) is licensed under **CC BY-NC 4.0**  
+  → https://creativecommons.org/licenses/by-nc/4.0/
+
+- The **source code** is free to use and adapt for **non-commercial purposes**, with attribution.  
+  Commercial use requires permission: [your email]
+
+© 2025 Nathalie Gassert
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
