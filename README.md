@@ -125,7 +125,7 @@ This project is provided under the following terms:
   → https://creativecommons.org/licenses/by-nc/4.0/
 
 - The **source code** is free to use and adapt for **non-commercial purposes**, with attribution.  
-  Commercial use requires permission: [your email]
+  Commercial use requires permission: ngassert@web.de
 
 © 2025 Nathalie Gassert
 
