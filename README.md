@@ -112,7 +112,6 @@ Die folgenden Slides zeigen die wichtigsten Aspekte des Projekts:
 ![Methodik & Daten](assets/images/slide_2.png)
 ![Ergebnisse & Visualisierung](assets/images/slide_3.png)
 ![Grenzen & Ausblick](assets/images/slide_4.png)
-![Fazit & Nutzen](assets/images/slide_5.png)
 
 
 ## Lizenz
